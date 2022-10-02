@@ -1,1 +1,2 @@
 # Leaf-Disease-Classification-System
+Developed a system that can provide a spontaneous, fairly precise and very economical solution for detecting and classifying leaf diseases which can help in improving the productivity of agricultural plants. The project has been implemented in MATLAB. The leaf image is processed (Using K-Means clustering followed by Otsu Thresholding) and certain statistical parameters such as infected leaf area, energy, entropy are calculated and given as input to a Multiclass classifier created using Support Vector Machines (SVMs).
